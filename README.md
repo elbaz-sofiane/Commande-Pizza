@@ -3,9 +3,8 @@
 Suite à mon expérience dans une pizzeria, j’ai eu l’occasion d’utiliser un logiciel de prise de commandes.  
 Je me suis donc demandé si je serais capable d’en créer un moi-même !
 
-**Langage :** Python  
-**IDE :** Visual Studio Code  
 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ---
 
 ## ✨ Fonctionnalités
